@@ -14,7 +14,7 @@ Le but du projet est de prendre en main un projet en équipe, découvrir github,
   - [Sprint 0](#sprint-0)
     - [Restrictions](#restrictions)
     - [Tâches réalisées](#tâches-réalisées)
-  - [### Dessiner un croquis représentant les besoins du client](#-dessiner-un-croquis-représentant-les-besoins-du-client)
+  - [Dessiner un croquis représentant les besoins du client](#dessiner-un-croquis-représentant-les-besoins-du-client)
       - [`Pourquoi faire ?`](#pourquoi-faire-)
     - [Réaliser un wireframe](#réaliser-un-wireframe)
       - [`Pourquoi faire ?`](#pourquoi-faire--1)
