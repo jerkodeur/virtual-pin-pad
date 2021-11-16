@@ -13,7 +13,7 @@ Le but du projet est de prendre en main un projet en équipe, découvrir github,
   * [Réaliser une maquette statique](#r-aliser-une-maquette-statique)
     + [Restrictions](#restrictions)
 - [Définitions](#d-finitions)
-    + [Générique](#g-n-rique)
+    + [Générique](#generique)
     + [HTML / CSS](#html---css)
 
 # Nom de l'équipe et signification, nom du scrum master  
@@ -40,7 +40,7 @@ Notre équipe se nomme SRP, qui est l'un des principes SOLID, qui regroupe cinq 
 - La page doit s’adapter au périphérique 
 - Rester le plus fidèle possible au croquis et au wireframe validés.
 # Définitions
-### Générique
+### Generique
 - Github    
 - Repository  
 - La méthode agile Kanban  
