@@ -3,24 +3,20 @@ Application réalisée en équipe dans le cadre de ma formation Java / C# / .net
 Le but du projet est de prendre en main un projet en équipe, découvrir github, les méthodes agiles, apprendre à analyser les besoins du client à partir desquels l'on va définir des tâches à réaliser pour proposer une solution finale au client final.
 
 # Sommaire
-- [virtual-pin-pad](#virtual-pin-pad)
-- [Sommaire](#sommaire)
-- [Équipe](#équipe)
+- [L'équipe](#équipe)
     - [Nom de l'équipe et signification](#nom-de-léquipe-et-signification)
     - [Composition du groupe](#composition-du-groupe)
     - [Nom du scrum master](#nom-du-scrum-master)
-- [Contexte du projet](#contexte-du-projet)
-- [Réalisation et différentes étapes du projet](#réalisation-et-différentes-étapes-du-projet)
+- [Le contexte du projet](#contexte-du-projet)
+- [Les réalisation et les différentes étapes du projet](#réalisation-et-différentes-étapes-du-projet)
   - [Sprint 0](#sprint-0)
     - [Restrictions](#restrictions)
     - [Tâches réalisées](#tâches-réalisées)
   - [Dessiner un croquis représentant les besoins du client](#dessiner-un-croquis-représentant-les-besoins-du-client)
-      - [`Pourquoi faire ?`](#pourquoi-faire-)
     - [Réaliser un wireframe](#réaliser-un-wireframe)
-      - [`Pourquoi faire ?`](#pourquoi-faire--1)
-      - [`Grâce à quel outil et pourquoi ?`](#grâce-à-quel-outil-et-pourquoi-)
+      - [`Quel outil avons-nous utilisé et pourquoi ?`](#quel-outil-avons-nous-utilisé-et-pourquoi-)
     - [Réaliser une maquette statique](#réaliser-une-maquette-statique)
-- [Définitions](#définitions)
+- [Quelques définitions](#définitions)
   - [Générique](#générique)
     - [`Github`](#github)
     - [`Repository`](#repository)
@@ -62,16 +58,13 @@ __Proposer un wireframe de l'application puis une maquette Web statique pour val
 4. A partir du wireframe, réaliser une interface statique en HTML et CSS.
  
 ### Dessiner un croquis représentant les besoins du client
----
-#### `Pourquoi faire ?`
-Cela représente une première esquisse qui permet de représenter les besoins du clients. Le fait de la faire sur du papier, permet de la modifier plus facilement, et de l'adapter en cas de mauvaise compréhension des besoins, ou si elle ne convient pas au product Owner.
+Le croquis représente une première esquisse qui permet de représenter les besoins du clients. Le fait de la faire sur du papier, permet de la modifier plus facilement, et de l'adapter en cas de mauvaise compréhension des besoins, ou si elle ne convient pas au product Owner.
 
 <img src='https://user-images.githubusercontent.com/49954831/141993313-ea1dc7f4-cc22-4fc1-ad61-93e2fc1fc05e.jpg' width='300px' />
 
 ### Réaliser un wireframe
-#### `Pourquoi faire ?`
 Le wireframe est une représentation graphique basique de l'application, qui pourra être présenté au client, et qui contient les éléments de base et le contenu.
-#### `Grâce à quel outil et pourquoi ?`
+#### `Quel outil avons-nous utilisé et pourquoi ?`
 Pour réaliser le wireframe de l'application, nous avons utilisé un outil en ligne nommé __mockflow__, car c'est un outil gratuit, simple d'utilisation et qui permet de réaliser des wireframe complexes.
 
 <img src='https://user-images.githubusercontent.com/49954831/141995583-a0df1baf-1a44-4230-93c3-ddf8faee307c.png' width='300px' /> 
