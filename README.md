@@ -2,6 +2,8 @@
 Application réalisée en équipe dans le cadre de ma formation Java / C# / .net.  
 Le but du projet est de prendre en main un projet en équipe, découvrir github, les méthodes agiles, apprendre à analyser les besoins du client à partir desquels l'on va définir des tâches à réaliser pour proposer une solution finale au client final.
 
+# Sommaire
+
 # Equipe
 ## Nom de l'équipe et signification
 Notre équipe se nomme __SRP__, qui est l'un des principes __SOLID__, qui regroupe cinq principes de conception destinés à produire des architectures logicielles plus compréhensibles, flexibles et maintenables.
@@ -20,11 +22,11 @@ Dans le cadre d’un PoC (Proof of Concept) notre client souhaite développer un
 - Il doit y avoir une seule page HTML, un seul fichier CSS
 - Organiser son code
 - La page doit s’adapter au périphérique 
-- Rester le plus fidèle possible au croquis et au wireframe validés.
+- Rester le plus fidèle possible au croquis et au wireframe validé.
 ### Tâches réalisées
 1. Définir les besoins du client.
 2. Dessiner un croquis à la main représentant l'application.
-3. A partir du croquis, réaliser un wireframe avec le l'outil de notre choix.
+3. A partir du croquis, réaliser un wireframe avec l'outil de notre choix.
 4. A partir du wireframe, réaliser une interface statique en HTML et CSS.
  
 ## `Dessiner un croquis représentant les besoins du client`
@@ -36,13 +38,14 @@ Cela représente une première esquisse qui permet de représenter les besoins d
 #### Pourquoi faire ?
 Le wireframe est une représentation graphique basique de l'application, qui pourra être présenté au client, et qui contient les éléments de base et le contenu. 
 #### Grâce à quel outil et pourquoi ?
-Pour réaliser le wireframe de l'application, j'ai utilisé un outil en ligne nommé __mockflow__, car c'est un outil gratuit, simple d'utilisation et qui permet de réaliser des wireframe complexes.
+Pour réaliser le wireframe de l'application, nous avons utilisé un outil en ligne nommé __mockflow__, car c'est un outil gratuit, simple d'utilisation et qui permet de réaliser des wireframe complexes.
 
 > <img src='https://user-images.githubusercontent.com/49954831/141995583-a0df1baf-1a44-4230-93c3-ddf8faee307c.png' width='300px' />
 #### `Réaliser une maquette statique`
 > A partir du wireframe, développer la maquette statique de l'application.
 # Définitions
-### Generique
+<a name="générique"></a>
+### Générique
 #### Github
 GitHub permet aux développeurs de stocker et de partager, publiquement ou non, le code qu’ils créent.
 Chaque utilisateur peut contribuer aux projets mis en ligne publiquement en proposant des modifications.
