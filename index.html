@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      description="Développer un prototype d’écran de saisie de code PIN à des fins d’authentification ou de paiement dans différentes applications."
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Virtual pin pad</title>
+  </head>
+  <body>
+    <main class="container">
+      <form class="grid-container">
+        <div class="pin">
+          <input class="pwd" value="1" type="password" max="1" />
+          <input class="pwd" value="2" type="password" max="1" />
+          <input class="pwd" type="password" max="1" />
+          <input class="pwd" type="password" max="1" />
+        </div>
+        <button class="ml mt" type="button" disabled>7</button>
+        <button class="mt" type="button" disabled>8</button>
+        <button class="mr mt" type="button" disabled>9</button>
+        <button class="ml" type="button" disabled>4</button>
+        <button type="button">5</button>
+        <button class="mr" type="button" disabled>6</button>
+        <button class="ml" type="button" disabled>1</button>
+        <button>2</button>
+        <button class="mr" type="button" disabled>3</button>
+        <button class="num0" type="button" disabled>0</button>
+      </form>
+    </main>
+  </body>
+</html>
