@@ -41,6 +41,7 @@ html {
   border: none;
   background-color: bisque;
   box-shadow: 0 10px 8px #000;
+  border-radius: 5px;
 }
 
 .pwd {
