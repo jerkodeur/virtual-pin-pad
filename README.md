@@ -17,7 +17,7 @@ Le but du projet est de prendre en main un projet en équipe, découvrir github,
     - [Tâches réalisées](#tâches-réalisées)
     - [Dessiner un croquis représentant les besoins du client](#dessiner-un-croquis-représentant-les-besoins-du-client)
     - [Réaliser un wireframe](#réaliser-un-wireframe)
-      - [`Quel outil avons-nous utilisé et pourquoi ?`](#quel-outil-avons-nous-utilisé-et-pourquoi-)
+        - [Quel outil avons-nous utilisé et pourquoi?](#quel-outil-avons-nous-utilisé-et-pourquoi)
     - [Réaliser une maquette statique](#réaliser-une-maquette-statique)
 - [Définitions](#définitions)
   - [Générique](#générique)
@@ -25,9 +25,9 @@ Le but du projet est de prendre en main un projet en équipe, découvrir github,
     - [`Repository`](#repository)
     - [`La méthode agile Kanban`](#la-méthode-agile-kanban)
     - [`Quel est le rôle du Product Owner`](#quel-est-le-rôle-du-product-owner)
-  - [HTML / CSS](#html--css)
-    - [`A quoi sert le doctype__ ?`](#a-quoi-sert-le-doctype__-)
-    - [`A quoi servent les entêtes dans un document HTML`](#a-quoi-servent-les-entêtes-dans-un-document-html)
+  - [HTML/CSS](#htmlcss)
+    - [`A quoi sert le doctype__?`](#a-quoi-sert-le-doctype__)
+    - [`A quoi servent les entêtes dans un document HTML?`](#a-quoi-servent-les-entêtes-dans-un-document-html)
     - [`A quoi sert l’entête __meta viewport__?`](#a-quoi-sert-lentête-__meta-viewport__)
     - [`Pourquoi est-il recommandé d’avoir les styles dans un fichier à part?`](#pourquoi-est-il-recommandé-davoir-les-styles-dans-un-fichier-à-part)
     - [`Expliquer le __modèle de boîtes en CSS__?`](#expliquer-le-__modèle-de-boîtes-en-css__)
@@ -74,7 +74,7 @@ Le croquis représente une première esquisse qui permet de représenter les bes
 
 ### Réaliser un wireframe
 Le wireframe est une représentation graphique basique de l'application, qui pourra être présenté au client, et qui contient les éléments de base et le contenu.
-#### `Quel outil avons-nous utilisé et pourquoi ?`
+##### Quel outil avons-nous utilisé et pourquoi?
 Pour réaliser le wireframe de l'application, nous avons utilisé un outil en ligne nommé __mockflow__, car c'est un outil gratuit, simple d'utilisation et qui permet de réaliser des wireframe complexes.
 
 <img src='https://user-images.githubusercontent.com/49954831/141995583-a0df1baf-1a44-4230-93c3-ddf8faee307c.png' width='300px' />
@@ -107,15 +107,18 @@ C'est un peu comme un chef de projet en mode agile. Il est en charge de satisfai
 
 [⬆️ Haut de la page](#top)
 
-## HTML / CSS
-### `A quoi sert le doctype__ ?`
+## HTML/CSS
+### `A quoi sert le doctype__?`
 Le doctype sert à déterminer quel comportement le navigueur doit appliquer pour afficher la page web. Actuellement pour HTML 5, `<!DOCTYPE html>` est le standard à utiliser. Pour les navigateurs les plus anciens, il faudra appliquer le doctype adapté afin que le navigateur en émule le comportement.
-### `A quoi servent les entêtes dans un document HTML`
+### `A quoi servent les entêtes dans un document HTML?`
 Les entêtes HTML sont placées entre les balises `head` du fichier hTML. Elles contiennent nottament des informations sur la page comme des métas-données(titre, description, mots clés), les feuilles de style importées. Elles sont aussi utiles pour un meilleur référencement dans les moteurs de recherche.
 ### `A quoi sert l’entête __meta viewport__?`
 L'entête `meta viewport` permet de contrôler l'affichage sur plusieurs types d'écrans. On peut y définir des valeurs pour certaines largeurs ou hauteurs d'écrans, ainsi que de définir le mode de zoom initial.
 ### `Pourquoi est-il recommandé d’avoir les styles dans un fichier à part?`
 Cela permet d'éviter les répétitions de code, de ne pas surcharger les fichiers HTML pour une meilleure lisibilité. Cela évite également d'avoir à changer dans chaque fichier le style s'il est utilisé à plusieurs endroits.
+
+[⬆️ Haut de la page](#top)
+
 ### `Expliquer le __modèle de boîtes en CSS__?`
 Le __modèle de boîte__ en css permet de définir comment sont positionnés les éléments de la page en fonction des balises sur lesquelles ils sont impliqués. Chaque élément sur une page représente une boîte, il existe des boîtes de type __bloc__, d'autres de type __inline__, et les éléments ne gère pas de la même manière leurs dimensionnements, ou leur espacements.
 ### `Qu’est-ce qu’un __sélecteur CSS__?`
@@ -125,4 +128,5 @@ Une propriété CSS permet de modifier une propriété de l'élément ciblé par
 ### `Liste des principaux liens utilisés pour s’aider à réaliser la maquette HTML/CSS?`
 - https://css-tricks.com/snippets/css/complete-guide-grid/ `Informations sur grid`
 - https://developer.mozilla.org/fr/ `Informations diverses`
-️ Haut de la page](#top)
+
+[⬆️ Haut de la page](#top)
