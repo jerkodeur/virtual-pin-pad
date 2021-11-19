@@ -99,7 +99,14 @@ button {
   .grid-container {
     width: 70%;
     grid-template-rows: 70px repeat(4, 100px);
-    font-size: 1.2em;
+    font-size: 1.25em;
+  }
+}
+@media (min-width: 800px) {
+  .grid-container {
+    width: 58%;
+    grid-template-rows: 75px repeat(4, 110px);
+    font-size: 1.3em;
   }
 }
 @media (min-width: 990px) {
